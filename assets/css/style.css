@@ -73,3 +73,7 @@ label {
 .required-field {
     color: red;
 }
+
+#state {
+    background-color: blue;
+}
